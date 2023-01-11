@@ -12,11 +12,12 @@
 
 <h2>🤳Connect with me:</h2>
 
-https://linkedin.com/in/kyra-patrick Hi there 👋
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] 
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/kyra-patrick/
 
 
 
