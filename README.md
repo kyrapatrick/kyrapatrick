@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+- <b>Azure Virtual Machine</b>
+  - [Azure: Create resource group and virtual machine](https://github.com/kyrapatrick/create-virtual-machine)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kyrapatrick/osticket-prereqs)
