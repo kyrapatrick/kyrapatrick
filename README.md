@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyra, an <a href="https://linkedin.com/in/Josh">aspiring IT Professional</a>☺</h1>
+<h1>Hello, I'm Kyra Patrick, an <a href="https://linkedin.com/in/Josh"> IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
